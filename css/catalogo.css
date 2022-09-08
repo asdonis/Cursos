@@ -1,0 +1,106 @@
+.ventana {
+    width: 300px;
+    height: 300px;
+
+    border-radius: 15px;
+
+    margin: auto;
+}
+
+.flexbox {
+    align-items: center;
+    display: flex;
+    height: 5rem;
+    justify-content: center;
+    width: 100%;
+  
+    background: #bbbbbb;
+    color: #333;
+}
+
+.content_1 {
+    align-items: center;
+    display: flex;
+    height: 15rem;
+    justify-content: center;
+    width: 100%;
+  
+    background: #ffffff;
+    color: #333;
+}
+.content_2 {
+    align-items: center;
+    display: flex;
+    height: 15rem;
+    justify-content: center;
+    width: 100%;
+  
+    background: #ffffff;
+    color: #333;
+}
+.content_3 {
+    align-items: center;
+    display: flex;
+    height: 15rem;
+    justify-content: center;
+    width: 100%;
+  
+    background: #ffffff;
+    color: #333;
+}
+
+.left_1 img {
+
+    width: 80%;
+    height: 80%;
+}
+
+.left_1 {
+    float: left;
+    width: 50%;
+}
+
+.right_1 {
+    float: right;
+    width: 50%;
+}
+
+.left_2 img {
+
+    width: 80%;
+    height: 80%;
+}
+
+.left_2 {
+    float: left;
+    width: 50%;
+}
+
+.right_2 {
+    float: right;
+    width: 50%;
+}
+
+.left_3 img {
+
+    width: 80%;
+    height: 80%;
+}
+
+.left_3 {
+    float: left;
+    width: 50%;
+}
+
+.right_3 {
+    float: right;
+    width: 50%;
+}
+.item1 {
+    width: 100%;
+    height: 100%;
+}
+
+.item1 img {
+    width: 100%;
+}
